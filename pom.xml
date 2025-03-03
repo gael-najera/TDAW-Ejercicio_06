@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.upiiz</groupId>
-	<artifactId>Tablas</artifactId>
+	<artifactId>Ejercicio_06</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Tablas</name>
-	<description>Proyecto para ilustrar manejo de tablas en HTML</description>
+	<name>Ejercicio_06</name>
+	<description>Etiquetas Principales de HTML</description>
 	<url/>
 	<licenses>
 		<license/>
